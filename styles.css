@@ -1,0 +1,41 @@
+body {
+    color: white;
+    background: rgb(15, 15, 15);
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
+  
+  header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+  }
+  
+ .chamada {   
+   
+    background: rgb(187, 3, 3);
+    padding: 10px;
+    margin: 227px;
+    display: flex;
+    justify-content: center;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  .Memes-tudo {  
+    background: rgb(187, 3, 3);  
+    padding: 10px;
+    margin: 227px;
+    display: flex;
+    justify-content: center;
+  } 
+  p2 {
+    display: flex;
+    margin: 120px
+    font-size: 20px;
+}
